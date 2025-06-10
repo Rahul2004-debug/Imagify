@@ -36,6 +36,7 @@ API Integration: Clipdrop
 ![image](https://github.com/user-attachments/assets/ebbfdce8-def8-491a-bf0c-011e9c5bee66)
 ![image](https://github.com/user-attachments/assets/7987f628-6e0b-43c4-9c31-c2ab36c301b4)
 ![image](https://github.com/user-attachments/assets/9b0681d7-d400-43d6-8561-d77fa550d2bd)
+![image](https://github.com/user-attachments/assets/7c015d60-b9dc-4c89-8904-4b6cb1606acc)
 ![image](https://github.com/user-attachments/assets/a2579e41-0e20-4a7a-8d2c-12e7f59443be)
 ![image](https://github.com/user-attachments/assets/808b1434-163a-4a33-b20f-3dbb11170899)
 
