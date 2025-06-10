@@ -1,0 +1,54 @@
+# Dependency folders
+node_modules/
+.pnpm/
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDEs & Editors
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
+
+# OS generated
+Thumbs.db
+ehthumbs.db
+Icon?
+
+# Test coverage
+coverage/
+
+# React
+*.cache
+.cache/
+.next/
+out/
+
+# Optional npm files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Misc
+*.tgz
+*.gz
+*.zip
+*.bak
+*.tmp
+
+# Ignore uploads or media (optional)
+uploads/
+media/
